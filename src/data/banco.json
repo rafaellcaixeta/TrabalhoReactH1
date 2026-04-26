@@ -1,0 +1,22 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "title": "Revisar a apresentacao",
+      "description": "Ajustar os ultimos detalhes antes da entrega.",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Confirmar horario da reuniao",
+      "description": "Mandar mensagem para o grupo.",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Separar documentos",
+      "description": "Tudo o que ja foi concluido pode ficar arquivado.",
+      "completed": true
+    }
+  ]
+}
